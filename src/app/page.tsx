@@ -39,7 +39,7 @@ export default function Home() {
             { name: "Success Stories", id: "testimonials" },
             { name: "Get Started", id: "contact" }
           ]}
-          brandName="WORK/WIN"
+          brandName="Luca's Door To Door Program"
           button={{
             text: "Start Your Grind",
             href: "contact"
